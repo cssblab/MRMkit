@@ -1,5 +1,7 @@
 # MRMkit
 
+Active repo is here: https://github.com/MRMkit/MRMkit
+
 ## MRMkit: automated data processing for large-scale targeted mass spectrometry
  
 <img src="Figure1_small.png" align="left">
